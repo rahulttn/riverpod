@@ -1,4 +1,4 @@
-name: melos_root
+name: demo_riverpod
 publish_to: none
 
 environment:
